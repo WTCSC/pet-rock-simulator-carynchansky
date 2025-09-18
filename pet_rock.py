@@ -54,7 +54,7 @@ while True:
                         
             
             
-      elif input1 == '3':
+      elif input1 == '3'
       elif input1 == '4':
       elif input1 == '5':
       
